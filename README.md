@@ -6,7 +6,7 @@
                                                            
 
                                                            
-![1](https://github.com/fatemeMohamadian/Calculator/assets/155579918/0411752b-bfe0-463a-b139-4ae381be430e)
+![1](https://github.com/fatemeMohamadian/LeaderShip-Event/assets/155579918/3171aaa6-865d-4725-a3a3-6d8b8fd373a8)
 
                                                           😎😉 
                                     
