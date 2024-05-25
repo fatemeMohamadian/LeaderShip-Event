@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'project';
+    src: url('../font/Merriweather-Light.ttf');
+    font-family: 'menu';
+    src: url('../font/Merriweather-Bold.ttf');
+    font-family: 'title';
+    src: url('../font/Merriweather-Regular.ttf');
+}
